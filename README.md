@@ -11,7 +11,7 @@ Question 2:
 
 Quel est le nom de la ressource chaîne qui spécifie le nom de l'application?
 
-          	* app_name
+          	  * app_name
 
 Question 3:
 
